@@ -9,7 +9,8 @@ using namespace std;
 class Collection
 {
 private:
-    vector<string> Movies;
+    vector<string> Movies;  // <-- Имя переменной не пишется с большой буквы. Имя переменной пишется с m_
+
 
 
 public:
